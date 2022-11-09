@@ -10,7 +10,7 @@
 ## リポジトリとは
 * ディレクトリの情報を保管する場所
 * ディレクトリを操作した変更履歴を記録する
-* (https://www.acrovision.jp/career/?p=2930)
+  * (https://www.acrovision.jp/career/?p=2930)
 
 ## 必要なソフトウェア
 * Python
