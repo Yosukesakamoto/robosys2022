@@ -3,6 +3,15 @@
 ![test](https://github.com/Yosukesakamoto/robosys2022/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す
 
+##何をするためのソフトか
+Gitの仕組みを利用して、自分のプログラムのコードやデータを保存し、公開するためのソフト
+*(https://www.sejuku.net/blog/7901)
+
+##リポジトリとは
+ディレクトリの情報を保管する場所
+ディレクトリを操作した変更履歴を記録する
+*(https://www.acrovision.jp/career/?p=2930)
+
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7~3.10
