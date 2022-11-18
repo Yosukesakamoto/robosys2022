@@ -14,10 +14,8 @@ def tonum(s):
 
 ans = 0.0
 for line in sys.stdin:
-    try:	
-        ans += int(line)
-    except:
-        ans += float(line) 
+    line = line.rstrip()
+    ans += float(line) 
 
 
 print(ans)
