@@ -1,0 +1,23 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Yosuke Sakamoto
+# SPDX-License-Identifier: BSD-3-Clause
+
+a = 10 - 70
+print(a)
+
+a = 100 ** 5
+print(a)
+
+a = 80 / 6
+print(a)
+
+a = 20 // 3
+print(a)
+
+a = 19 % 7
+print(a)
+
+a = 18 // 3
+b = 15 % 4
+print(a,b)
+
