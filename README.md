@@ -3,8 +3,20 @@
 ![test](https://github.com/Yosukesakamoto/robosys2022/actions/workflows/test.yml/badge.svg)
 
 
-標準入力から読み込んだ数字を足す
+## plus
 
+* seq 5 | ./plus を使って、実行する
+  実行結果　15 
+
+## keisan
+
+* seq 5 | ./keisan を使って、実行する
+　実行結果  -60
+            10000
+            3.0
+            6
+            5　
+ 
 
 ## 何をするためのソフトか
 * Gitの仕組みを利用して、自分のプログラムのコードやデータを保存し、公開するためのソフトウェア
@@ -19,12 +31,9 @@
 * Python
   * テスト済み: 3.7~3.10
 
-## テスト環境
-* Ubuntu
+## ライセンス
 
- * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-  * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
-  * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-  * © 2022 Ryuichi Ueda
+* このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
+ 
+* © 2022 Yosuke Sakamoto
 
