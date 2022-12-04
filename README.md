@@ -1,6 +1,7 @@
+![test](https://github.com/Yosukesakamoto/robosys2022/actions/workflows/test.yml/badge.svg)
 # robosys2022
 ロボットシステム学2022
-![test](https://github.com/Yosukesakamoto/robosys2022/actions/workflows/test.yml/badge.svg)
+
 
 
 ## plus
